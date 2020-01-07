@@ -1,0 +1,8 @@
+echo "# sec_testing" >> README.md
+git init
+git add 32wILoveN4L2G.md
+git commit -m "first commit"
+git remote add origin https://github.com/abmileikowsky/sec_testing.git
+git push -u origin master
+
+32wILoveN4L2G
